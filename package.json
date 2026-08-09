@@ -1,0 +1,16 @@
+{
+  "name": "ECommerce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^22.15.3",
+    "allure-playwright": "^3.2.2",
+    "typescript": "^5.8.3"
+  }
+}
